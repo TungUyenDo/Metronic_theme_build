@@ -12,6 +12,9 @@
 <!-- Install the latest version of npm. -->
 #npm install --global npm@latest
 
+
+
+<!-- start here (if you have npm)------------------------------------------------------------------------ -->
 <!-- Install the latest version of yarn. -->
 #npm install --global yarn
 
