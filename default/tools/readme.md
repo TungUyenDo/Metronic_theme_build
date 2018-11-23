@@ -14,7 +14,7 @@
 
 
 
-<!-- start here (if you have npm)------------------------------------------------------------------------ -->
+<!-- start here (if you had npm)------------------------------------------------------------------------ -->
 <!-- Install the latest version of yarn. -->
 #npm install --global yarn
 

@@ -221,6 +221,18 @@
                                 "{$config.path.node_modules}/owl.carousel/dist/assets/ajax-loader.gif"
                             ]
                         },
+                        "slick-carousel": {
+                            "styles": [
+                                "{$config.path.node_modules}/slick-carousel/slick/assets/slick.css",
+                                "{$config.path.node_modules}/slick-carousel/slick/assets/slick.theme.css"
+                            ],
+                            "scripts": [
+                                "{$config.path.node_modules}/slick-carousel/slick/slick.min.js"
+                            ],
+                            "images": [
+                                "{$config.path.node_modules}/slick-carousel/slick/ajax-loader.gif"
+                            ]
+                        },
                         "autosize": {
                             "scripts": [
                                 "{$config.path.node_modules}/autosize/dist/autosize.js"
